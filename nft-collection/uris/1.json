@@ -1,0 +1,11 @@
+{
+    "name": "NFT Blockchain 1",
+    "description": "NFT Collection Blockchain",
+    "image": "",
+    "attributes": [
+        {
+            "trait_type": "rarity",
+            "value": "1"
+        }
+    ]
+}
